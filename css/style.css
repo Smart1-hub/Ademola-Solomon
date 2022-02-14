@@ -1,0 +1,24 @@
+.image {
+    display: block;
+    margin: auto;
+    max-width: 600px;
+    height: auto;
+}
+ul {
+    margin-left: 400px;
+    text-align: justify;
+    list-style-type: none;
+}
+#title > h1 {
+    font-weight: 400;
+}
+#title > p {
+    font-size: 1.5em;
+}
+
+#main{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
